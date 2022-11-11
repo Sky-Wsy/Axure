@@ -1,0 +1,58 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-193px;
+  width:847px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u642_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:847px;
+  height:561px;
+}
+#u642 {
+  border-width:0px;
+  position:absolute;
+  left:193px;
+  top:70px;
+  width:847px;
+  height:561px;
+  display:flex;
+}
+#u642 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u642_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u643 {
+  border-width:0px;
+  position:absolute;
+  left:567px;
+  top:546px;
+  width:139px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

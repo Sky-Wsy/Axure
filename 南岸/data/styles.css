@@ -88,6 +88,12 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .table_cell {
 }
 ._流程形状 {
@@ -111,16 +117,38 @@
 .paragraph {
   text-align:left;
 }
+.heading_1 {
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .shape {
 }
 .image {
   color:#000000;
 }
+.placeholder {
+}
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
 .font_awesome_5_free_solid {
-  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free', sans-serif;
+  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free Regular', 'Font Awesome 5 Free', sans-serif;
   font-weight:900;
   font-style:normal;
 }
 .ellipse {
+}
+._形状 {
+}
+._形状1 {
+}
+._水平线 {
 }
 textarea, select, input, button { outline: none; }
