@@ -118,7 +118,7 @@
   text-align:left;
 }
 .heading_1 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -139,7 +139,7 @@
   color:#666666;
 }
 .font_awesome_5_free_solid {
-  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free Regular', 'Font Awesome 5 Free', sans-serif;
+  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free', sans-serif;
   font-weight:900;
   font-style:normal;
 }
@@ -150,5 +150,28 @@
 ._形状1 {
 }
 ._水平线 {
+}
+._图片 {
+  color:#000000;
+}
+.icon1 {
+}
+.el-button-primary {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.el-button {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+._默认样式 {
 }
 textarea, select, input, button { outline: none; }
