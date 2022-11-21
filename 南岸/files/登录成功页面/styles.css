@@ -232,3 +232,42 @@
   text-transform:none;
   visibility:hidden;
 }
+#u7_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  height:35px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.474509803921569);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(215, 215, 215, 1);
+  border-radius:12px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u7 {
+  border-width:0px;
+  position:absolute;
+  left:904px;
+  top:15px;
+  width:160px;
+  height:35px;
+  display:flex;
+}
+#u7 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u7_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
