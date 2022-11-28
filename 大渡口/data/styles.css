@@ -1,0 +1,151 @@
+﻿.ax_default {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+._形状 {
+}
+._图片_ {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+._一级标题 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+._流程形状 {
+}
+.menu_item {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+.flow_shape {
+}
+.icon {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape {
+}
+.image {
+  color:#000000;
+}
+.font_awesome_5_free_solid {
+  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free', sans-serif;
+  font-weight:900;
+  font-style:normal;
+}
+.font_awesome_5_brand_icons {
+}
+.ellipse {
+}
+._连接 {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#656565;
+}
+.box_11 {
+}
+.box_31 {
+}
+._图片 {
+}
+textarea, select, input, button { outline: none; }
